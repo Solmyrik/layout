@@ -163,8 +163,8 @@ main {
   }
   .buttons {
     flex-direction: column;
-    gap: 50px;
-    padding: 50px 45px;
+    gap: 20px;
+    align-items: center;
   }
   .content__container {
     padding: 30px 15px;
